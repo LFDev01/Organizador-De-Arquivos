@@ -9,13 +9,11 @@ Classificação:
   - Um subdiretório é criado para organizar arquivos de mesmo tipo. Por exemplo: Documentos → arquivos .pdf, .docx, .xls, etc.
 
 
-
 📘 Bibliotecas utilizadas:
 - **OS**
 - **SHUTIL**
 - **TKINTER**
 
-Também foi usado o paradigma de Orientação a Objetos.
 
 Segue abaixo algumas imagens:
 
